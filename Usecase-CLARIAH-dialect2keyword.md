@@ -1,11 +1,11 @@
-# (Title of your use case)
+# Exploring Dialect2Keyword
 
 ## Metadata
 
-* **Status:**  Proposed/In Progress/Completed/Cancelled/Rejected
-* **Type:** Specific/Generic (is this a specific use-case, with identifiable end-users, or a more generic use case?)
-* **Work Package**: WPx
-* **Research Coordinators:**  (who is coordinating the research? If decided)
+* **Status:**  Proposed
+* **Type:** Specific
+* **Work Package**: WP3
+* **Research Coordinators:**  Prof. Nicoline van der Sijs, Dr Henk van den Heuvel, Prof. Jos Swanenberg
 * **Coordinators for CLARIAH:**  (who is coordinating this use case for CLARIAH? If decided)
 * **Participating Institutes:** (what institutes are participating in handling this use case?)
 * **End-users**: (Who is involved as end-user for this use-case? Try to mention name, institute, role/responsibility)
